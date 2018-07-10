@@ -1,0 +1,29 @@
+{
+  "name": "buildmyangularjs",
+  "version": "1.0.0",
+  "description": "the book of Build your own angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xieyankun/BuildMyAngularjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xieyankun/BuildMyAngularjs/issues"
+  },
+  "homepage": "https://github.com/xieyankun/BuildMyAngularjs#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-testem": "^0.5.22",
+    "sinon": "^6.1.3"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.10"
+  }
+}
